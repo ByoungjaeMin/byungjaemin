@@ -5,7 +5,7 @@
 </a>
 <br/>
 <a href="https://github.com/byungjaemin">
-    <img src="https://github-stats-alpha.vercel.app/api?username=drkostas&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=byungjaemin&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
 Here are some ideas to get you started:
