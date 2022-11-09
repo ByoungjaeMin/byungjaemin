@@ -8,7 +8,6 @@
 <a href="https://github.com/byungjaemin">
     <img src="https://github-readme-stats.vercel.app/api?username=byungjaemin&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
 </a>
-**byungjaemin/byungjaemin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
